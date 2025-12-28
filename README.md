@@ -52,4 +52,8 @@ Kullanıcı, ürün, sepet, sipariş ve stok yönetimi süreçlerini kapsar.
   * `COMPLETED`
   * `CANCELLED`
 
+---
+
+## Relational Database Schema
+
 <img width="960" height="713" alt="image" src="https://github.com/user-attachments/assets/a7a7aabe-2baf-4ef3-b1b8-413aef47c2f8" />
