@@ -2,8 +2,7 @@ package com.ecenisaugu.E_Commerce.System.Controller;
 
 import com.ecenisaugu.E_Commerce.System.Dto.Request.Authentication.LoginDto;
 import com.ecenisaugu.E_Commerce.System.Dto.Request.Authentication.RegisterDto;
-import com.ecenisaugu.E_Commerce.System.Service.concretes.AuthenticationService;
-import jakarta.servlet.Registration;
+import com.ecenisaugu.E_Commerce.System.Service.AuthenticationService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.security.core.context.SecurityContextHolder;

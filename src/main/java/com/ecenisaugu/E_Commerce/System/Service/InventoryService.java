@@ -1,4 +1,4 @@
-package com.ecenisaugu.E_Commerce.System.Service.concretes;
+package com.ecenisaugu.E_Commerce.System.Service;
 
 import com.ecenisaugu.E_Commerce.System.Dto.Request.Inventroy.InventoryDto;
 import com.ecenisaugu.E_Commerce.System.Entity.Inventroy;

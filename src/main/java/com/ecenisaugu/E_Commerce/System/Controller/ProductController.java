@@ -6,7 +6,7 @@ import com.ecenisaugu.E_Commerce.System.Dto.Request.Product.AddProductDto;
 import com.ecenisaugu.E_Commerce.System.Dto.Request.Product.UpdateProductPriceDto;
 import com.ecenisaugu.E_Commerce.System.Entity.ProductEntites.Product;
 import com.ecenisaugu.E_Commerce.System.Repository.ProductRepository;
-import com.ecenisaugu.E_Commerce.System.Service.concretes.ProductService;
+import com.ecenisaugu.E_Commerce.System.Service.ProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

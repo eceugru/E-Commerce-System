@@ -1,4 +1,4 @@
-package com.ecenisaugu.E_Commerce.System.Service.concretes;
+package com.ecenisaugu.E_Commerce.System.Service;
 
 import com.ecenisaugu.E_Commerce.System.Dto.Request.Authentication.LoginDto;
 import com.ecenisaugu.E_Commerce.System.Dto.Request.Authentication.RegisterDto;

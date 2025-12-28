@@ -3,7 +3,7 @@ package com.ecenisaugu.E_Commerce.System.Controller;
 import com.ecenisaugu.E_Commerce.System.Dto.Request.Inventroy.InventoryDto;
 import com.ecenisaugu.E_Commerce.System.Entity.Inventroy;
 import com.ecenisaugu.E_Commerce.System.Repository.InventoryRepository;
-import com.ecenisaugu.E_Commerce.System.Service.concretes.InventoryService;
+import com.ecenisaugu.E_Commerce.System.Service.InventoryService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

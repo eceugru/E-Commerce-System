@@ -1,4 +1,4 @@
-package com.ecenisaugu.E_Commerce.System.Dto.Response;
+package com.ecenisaugu.E_Commerce.System.Dto.Response.Order;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,4 +1,4 @@
-package com.ecenisaugu.E_Commerce.System.Service.concretes;
+package com.ecenisaugu.E_Commerce.System.Service;
 
 
 import org.springframework.data.redis.core.StringRedisTemplate;
